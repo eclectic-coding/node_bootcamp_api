@@ -19,7 +19,7 @@
     "geocoder": "^0.2.3",
     "mongoose": "^5.13.14",
     "morgan": "^1.10.0",
-    "slugify": "^1.6.4"
+    "slugify": "^1.6.5"
   },
   "devDependencies": {
     "nodemon": "^2.0.15"
